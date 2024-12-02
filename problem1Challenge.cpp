@@ -23,6 +23,7 @@
 //            column2.push_back(b);
 //        }
 //    }
+//    input.close();
 //    while (!column2.empty()) {
 //        if (m.count(column2.front())) {
 //            m[column2.front()].second++;

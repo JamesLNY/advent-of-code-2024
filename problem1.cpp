@@ -16,6 +16,7 @@
 //            column2.push_back(b);
 //        }
 //    }
+//    input.close();
 //    sort(column1.begin(), column1.end());
 //    sort(column2.begin(), column2.end());
 //    while (!column1.empty()) {
