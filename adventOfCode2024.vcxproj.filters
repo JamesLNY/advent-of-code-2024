@@ -27,13 +27,22 @@
     <ClCompile Include="problem2Challenge.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="problem3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="problem3Challenge.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input1.txt">
-      <Filter>Source Files</Filter>
+      <Filter>Resource Files</Filter>
     </Text>
     <Text Include="input2.txt">
-      <Filter>Source Files</Filter>
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="input3.txt">
+      <Filter>Resource Files</Filter>
     </Text>
   </ItemGroup>
 </Project>
