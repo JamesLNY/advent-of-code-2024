@@ -135,12 +135,15 @@
     <ClCompile Include="problem3Challenge.cpp" />
     <ClCompile Include="problem4.cpp" />
     <ClCompile Include="problem4Challenge.cpp" />
+    <ClCompile Include="problem5.cpp" />
+    <ClCompile Include="problem5Challenge.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="input1.txt" />
     <Text Include="input2.txt" />
     <Text Include="input3.txt" />
     <Text Include="input4.txt" />
+    <Text Include="input5.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
