@@ -51,6 +51,12 @@
     <ClCompile Include="problem6Challenge.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="problem7.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="problem7Challenge.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input1.txt">
@@ -69,6 +75,9 @@
       <Filter>Resource Files</Filter>
     </Text>
     <Text Include="input6.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="input7.txt">
       <Filter>Resource Files</Filter>
     </Text>
   </ItemGroup>
