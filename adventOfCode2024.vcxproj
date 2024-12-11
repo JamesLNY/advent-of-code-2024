@@ -128,6 +128,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="problem1.cpp" />
+    <ClCompile Include="problem10Challenge.cpp" />
+    <ClCompile Include="problem11.cpp" />
+    <ClCompile Include="problem11Challenge.cpp" />
     <ClCompile Include="problem1Challenge.cpp" />
     <ClCompile Include="problem2.cpp" />
     <ClCompile Include="problem2Challenge.cpp" />
@@ -145,9 +148,12 @@
     <ClCompile Include="problem8Challenge.cpp" />
     <ClCompile Include="problem9.cpp" />
     <ClCompile Include="problem9Challenge.cpp" />
+    <ClCompile Include="problem10.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="input1.txt" />
+    <Text Include="input10.txt" />
+    <Text Include="input11.txt" />
     <Text Include="input2.txt" />
     <Text Include="input3.txt" />
     <Text Include="input4.txt" />
