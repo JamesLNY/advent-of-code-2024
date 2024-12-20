@@ -149,6 +149,8 @@
     <ClCompile Include="problem19Challenge.cpp" />
     <ClCompile Include="problem1Challenge.cpp" />
     <ClCompile Include="problem2.cpp" />
+    <ClCompile Include="problem20.cpp" />
+    <ClCompile Include="problem20Challenge.cpp" />
     <ClCompile Include="problem2Challenge.cpp" />
     <ClCompile Include="problem3.cpp" />
     <ClCompile Include="problem3Challenge.cpp" />
@@ -179,6 +181,7 @@
     <Text Include="input18.txt" />
     <Text Include="input19.txt" />
     <Text Include="input2.txt" />
+    <Text Include="input20.txt" />
     <Text Include="input3.txt" />
     <Text Include="input4.txt" />
     <Text Include="input5.txt" />
